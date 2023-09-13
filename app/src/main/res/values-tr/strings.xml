@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Shoes</string>
+    <string name="shoesBaslik">Kösele Ayakkabı</string>
+    <string name="deriYazi">Deri</string>
+    <string name="tabanYazi">Taban</string>
+    <string name="bedenYazi">Beden</string>
+    <string name="mevsimYazi">Mevsim</string>
+    <string name="teslimTarihi">7 gün içinde teslimat</string>
+    <string name="urunFiyat">8000 ₺</string>
+    <string name="geriTus">GERİ</string>
+    <string name="satinAlmaTus">SATIN AL</string>
+
+</resources>

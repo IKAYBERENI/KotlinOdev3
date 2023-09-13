@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Shoes</string>
+    <string name="shoesBaslik">Cowhide Leather</string>
+    <string name="deriYazi">Leather</string>
+    <string name="tabanYazi">Sole</string>
+    <string name="bedenYazi">Size</string>
+    <string name="mevsimYazi">Season</string>
+    <string name="teslimTarihi">Delivery within 7 days</string>
+    <string name="urunFiyat">$300</string>
+    <string name="geriTus">BACK</string>
+    <string name="satinAlmaTus">BUY</string>
+
+</resources>
